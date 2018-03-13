@@ -1,0 +1,22 @@
+{
+  "name": "express_lecture",
+  "version": "1.0.0",
+  "description": "intro to express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapomerantz/express_lecture.git"
+  },
+  "author": "Atticus Pomerantz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapomerantz/express_lecture/issues"
+  },
+  "homepage": "https://github.com/rapomerantz/express_lecture#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
